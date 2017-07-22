@@ -83,7 +83,6 @@ for user in enron_data:
         count+= 1
     total += 1
 percentage = float((float(count)/float(total))*100)
-print(count)
 print('Percentage NaN total_payments: '+str(percentage))
 
 #Percentage POI with NaN total_payments
