@@ -8,3 +8,4 @@ Udacity Machine Learning Engineer Nanodegree - Project Solutions
 3. [Boston Housing](https://github.com/ChrisParsonsDev/mlnd/tree/master/boston_housing)
 4. [Finding Donors](https://github.com/ChrisParsonsDev/mlnd/tree/master/finding_donors)
 5. [PCA](https://github.com/ChrisParsonsDev/mlnd/tree/master/pca)
+6. [Customer Segments](https://github.com/ChrisParsonsDev/mlnd/tree/master/customer_segments)
