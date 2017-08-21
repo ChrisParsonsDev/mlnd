@@ -9,3 +9,4 @@ Udacity Machine Learning Engineer Nanodegree - Project Solutions
 4. [Finding Donors](https://github.com/ChrisParsonsDev/mlnd/tree/master/finding_donors)
 5. [PCA](https://github.com/ChrisParsonsDev/mlnd/tree/master/pca)
 6. [Customer Segments](https://github.com/ChrisParsonsDev/mlnd/tree/master/customer_segments)
+6. [Smart Cab](https://github.com/ChrisParsonsDev/mlnd/tree/master/smartcab)
