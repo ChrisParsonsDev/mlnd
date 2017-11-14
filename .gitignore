@@ -1,2 +1,4 @@
 /enron/datasets/maildir/*
-
+/dog-project/lfw/*
+/dog-project/dogImages/*
+/dog-project/bottleneck_features
