@@ -13,3 +13,9 @@ https://www.kaggle.com/dalpozz/creditcardfraud
 The full proposal document can be found here:
 
 1. [Capstone Proposal](https://github.com/ChrisParsonsDev/mlnd/tree/master/capstone/PROPOSAL.md)
+
+## Notebook
+
+The full Jupyter Notebook for this project can be found here:
+
+1. [Capstone Notebook](https://github.com/ChrisParsonsDev/mlnd/tree/master/capstone/credit_card_fraud_detection.ipynb)
