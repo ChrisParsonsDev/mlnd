@@ -19,3 +19,9 @@ The full proposal document can be found here:
 The full Jupyter Notebook for this project can be found here:
 
 1. [Capstone Notebook](https://github.com/ChrisParsonsDev/mlnd/tree/master/capstone/credit_card_fraud_detection.ipynb)
+
+## Report
+
+The full .MD report for this project can be found here:
+
+1. [Capstone Report](https://github.com/ChrisParsonsDev/mlnd/tree/master/capstone/report/report.md)
