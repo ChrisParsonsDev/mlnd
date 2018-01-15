@@ -233,6 +233,7 @@ trainY = trainY.reshape(trainYShape[0], 1)
 trainY = np.concatenate((1-trainY, trainY), axis=1)
 testYShape = testY.shape
 testY = testY.reshape(testYShape[0], 1)
+testY = np.concatenate((1-testY, testY), axis=1)\n
 
 # Multiplier maintains fixed ratio of nodes between each layer
 mulitplier = 1.5 
@@ -396,7 +397,7 @@ def decoder(x):
     return layer_2
  
 # Construct model
-encoder_op = encoder(X)
+encoder_op = encoder(X_)
 decoder_op = decoder(encoder_op)
  
 # Prediction
