@@ -233,7 +233,7 @@ trainY = trainY.reshape(trainYShape[0], 1)
 trainY = np.concatenate((1-trainY, trainY), axis=1)
 testYShape = testY.shape
 testY = testY.reshape(testYShape[0], 1)
-testY = np.concatenate((1-testY, testY), axis=1)\n
+testY = np.concatenate((1-testY, testY), axis=1)
 
 # Multiplier maintains fixed ratio of nodes between each layer
 mulitplier = 1.5 
